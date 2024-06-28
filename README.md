@@ -56,3 +56,6 @@ You've hired an assistant for the bookstore named Martin. Grant him permission t
 
 **REVOKE**
 Martin made a few mistakes in updating book details. Revoke his update permissions but let him continue viewing the books.
+
+**COMMIT**
+You decide to remove a book with BookID = 101 from the Books table. Ensure this change is saved permanently.
