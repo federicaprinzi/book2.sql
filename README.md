@@ -50,3 +50,6 @@ Based on these details, insert the information into the Books table.
 
 **BOOKS 4**
 There's been a price reduction for "War and Peace" and one copy has been sold. Update the price and stock count for this book.
+
+**GRANT**
+You've hired an assistant for the bookstore named Martin. Grant him permission to view and update the Books table, but he shouldn't be able to delete any records. IP address of Martinis martin@localhost.
