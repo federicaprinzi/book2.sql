@@ -59,3 +59,6 @@ Martin made a few mistakes in updating book details. Revoke his update permissio
 
 **COMMIT**
 You decide to remove a book with BookID = 101 from the Books table. Ensure this change is saved permanently.
+
+**ROLLBACK**
+You're testing the database by removing a book with BookID = 103 but want to revert the change immediately after.
